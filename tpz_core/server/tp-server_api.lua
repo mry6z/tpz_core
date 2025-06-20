@@ -133,7 +133,7 @@ exports('getCoreAPI', function()
 
                 await = false
 
-            end
+            end)
 
             while await do 
                 Wait(50)
